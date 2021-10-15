@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ynq/ros_project/install/setup.sh
