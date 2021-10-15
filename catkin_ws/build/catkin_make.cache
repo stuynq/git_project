@@ -1,0 +1,2 @@
+little_car:taskweek3
+-DCATKIN_DEVEL_PREFIX=/home/ynq/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ynq/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ynq/ros_project/install
+
+Name: Little_car
+Description: Description of Little_car
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

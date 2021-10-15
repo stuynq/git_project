@@ -1,0 +1,8 @@
+prefix=/home/ynq/catkin_ws/install
+
+Name: taskweek3
+Description: Description of taskweek3
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltaskweek3
+Requires: roscpp rospy std_msgs message_runtime
